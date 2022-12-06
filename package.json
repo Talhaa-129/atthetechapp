@@ -1,0 +1,32 @@
+{
+  "name": "meipaly-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "postbuild": "next-sitemap"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.5",
+    "antd": "^4.23.1",
+    "axios": "^0.27.2",
+    "bootstrap": "^4.6.0",
+    "next": "^10.0.0",
+    "next-images": "^1.7.0",
+    "next-sitemap": "^3.1.29",
+    "react": "17.0.1",
+    "react-bootstrap": "^1.4.3",
+    "react-countup": "^4.3.3",
+    "react-dom": "17.0.1",
+    "react-modal-video": "^1.2.6",
+    "react-redux": "^8.0.2",
+    "react-scroll": "^1.8.1",
+    "react-visibility-sensor": "^5.1.1",
+    "redux": "^4.2.0",
+    "redux-saga": "^1.2.1",
+    "swiper": "^6.4.6",
+    "typeface-oswald": "^1.1.13"
+  }
+}
