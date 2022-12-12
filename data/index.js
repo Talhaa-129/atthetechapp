@@ -459,36 +459,71 @@ export const PortfolioData = [
     categories: ["React", "Application"],
     image: portfolio01,
     url: "/portfolio-details",
+    name:"APP DEVELOPMENT"
   },
   {
     title: "Website Design and Development",
     categories: ["all", "Website"],
     image: portfolio02,
     url: "/portfolio-details",
+    name:'WEB DEVELOPMENT'
   },
   {
     title: "Tracking App",
     categories: ["all", "Application"],
     image: portfolio03,
     url: "/portfolio-details",
+    name:"APP DEVELOPMENT"
+
   },
   {
     title: "search engine optimization",
     categories: ["all", "SEO"],
     image: portfolio04,
     url: "/portfolio-details",
+    name:'SEO'
   },
   {
     title: "Web designing",
     categories: ["all", "graphic designing"],
     image: portfolio10,
     url: "/portfolio-details",
+    name:'GRAPHIC DESIGNING'
   },
   {
     title: "ecommerce website",
     categories: ["all", "ecommerce"],
     image: portfolio06,
     url: "/portfolio-details",
+    name:'WEB DEVELOPMENT'
+
+  },
+];
+
+export const PortfolioButtons = [
+  {
+    name: "APP DEVELOPMENT",
+    services: "app development",
+  },
+  {
+    name: "WEB DEVELOPMENT",
+    services: "web development",
+  },
+  {
+    name: "PAID MARKETING",
+    services: " paid marketing",
+  },
+  {
+    name: "GRAPHIC DESIGNING",
+    services: "graphic designing",
+  },
+  {
+    name: "SMM",
+    services: "smm",
+  },
+  {
+    name: "SEO",
+    services: " seo",
   },
 ];
 
@@ -1162,7 +1197,7 @@ export const TeamOneData = {
     },
     {
       image: team04,
-      name: "Talha Tariq",
+      name: "Muhammad Talha",
       designation: "Full Stack Developer",
       url: "#",
       socials: [

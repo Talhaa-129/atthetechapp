@@ -686,6 +686,9 @@ License URI:
   .singlePortfoio_content {
     margin-bottom: 28px;
   }
+  .portActive {
+    color: "white";
+  }
   .nextprevPagination {
     padding: 35px 0;
   }
