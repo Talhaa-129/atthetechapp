@@ -1278,22 +1278,22 @@ export const TestimonialsOneData = {
         "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
       date: "25 nov, 2018",
     },
-    {
-      name: "Whaja Ul Samad",
-      designation: "Director",
-      image: testimonial02,
-      content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018",
-    },
-    {
-      name: "Zain ul Maab",
-      designation: "CEO",
-      image: testimonial03,
-      content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018",
-    },
+    // {
+    //   name: "Whaja Ul Samad",
+    //   designation: "Director",
+    //   image: testimonial02,
+    //   content:
+    //     "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
+    //   date: "25 nov, 2018",
+    // },
+    // {
+    //   name: "Zain ul Maab",
+    //   designation: "CEO",
+    //   image: testimonial03,
+    //   content:
+    //     "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
+    //   date: "25 nov, 2018",
+    // },
   ],
 };
 
